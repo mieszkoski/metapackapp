@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaPack_App", "MetaPack_App\MetaPack_App.csproj", "{44BE21AA-7576-4531-8D23-05862D3AE7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BE21AA-7576-4531-8D23-05862D3AE7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BE21AA-7576-4531-8D23-05862D3AE7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BE21AA-7576-4531-8D23-05862D3AE7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BE21AA-7576-4531-8D23-05862D3AE7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6138E9-4599-41A3-8B87-1140CE30DCBA}
+	EndGlobalSection
+EndGlobal
